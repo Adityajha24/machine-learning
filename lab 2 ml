@@ -1,3 +1,11 @@
+https://colab.research.google.com/drive/1X1HDRg8yHZZkEon0STdNiaPkK8YU0Ep8#scrollTo=WvQD45fPfxft
+
+
+
+
+
+
+
 #1
 import numpy as np
 arr=np.random.rand(4,4)
